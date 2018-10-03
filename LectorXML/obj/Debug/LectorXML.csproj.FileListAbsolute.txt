@@ -1,0 +1,94 @@
+D:\Users\nehuen\Desktop\LectorXML\LectorXML\bin\Debug\LectorXML.exe.config
+D:\Users\nehuen\Desktop\LectorXML\LectorXML\bin\Debug\LectorXML.exe
+D:\Users\nehuen\Desktop\LectorXML\LectorXML\bin\Debug\LectorXML.pdb
+D:\Users\nehuen\Desktop\LectorXML\LectorXML\obj\Debug\LectorXML.csprojAssemblyReference.cache
+D:\Users\nehuen\Desktop\LectorXML\LectorXML\obj\Debug\LectorXML.Properties.Resources.resources
+D:\Users\nehuen\Desktop\LectorXML\LectorXML\obj\Debug\LectorXML.csproj.GenerateResource.cache
+D:\Users\nehuen\Desktop\LectorXML\LectorXML\obj\Debug\LectorXML.csproj.CoreCompileInputs.cache
+D:\Users\nehuen\Desktop\LectorXML\LectorXML\obj\Debug\LectorXML.exe
+D:\Users\nehuen\Desktop\LectorXML\LectorXML\obj\Debug\LectorXML.pdb
+D:\Users\nehuen\Desktop\LectorXML\LectorXML\obj\Debug\LectorXML.Form1.resources
+D:\Users\nehuen\Desktop\LectorXML\LectorXML\obj\Debug\LectorXML.Login.resources
+G:\PROYECTO GERARDO\LectorXML\LectorXML\bin\Debug\LectorXML.exe.config
+G:\PROYECTO GERARDO\LectorXML\LectorXML\bin\Debug\LectorXML.exe
+G:\PROYECTO GERARDO\LectorXML\LectorXML\bin\Debug\LectorXML.pdb
+G:\PROYECTO GERARDO\LectorXML\LectorXML\obj\Debug\LectorXML.csprojAssemblyReference.cache
+G:\PROYECTO GERARDO\LectorXML\LectorXML\obj\Debug\LectorXML.Properties.Resources.resources
+G:\PROYECTO GERARDO\LectorXML\LectorXML\obj\Debug\LectorXML.csproj.GenerateResource.cache
+G:\PROYECTO GERARDO\LectorXML\LectorXML\obj\Debug\LectorXML.csproj.CoreCompileInputs.cache
+G:\PROYECTO GERARDO\LectorXML\LectorXML\obj\Debug\LectorXML.exe
+G:\PROYECTO GERARDO\LectorXML\LectorXML\obj\Debug\LectorXML.pdb
+G:\PROYECTO GERARDO\LectorXML\LectorXML\obj\Debug\LectorXML.csproj.CopyComplete
+F:\PROYECTO GERARDO\LectorXML\LectorXML\bin\Debug\LectorXML.exe.config
+F:\PROYECTO GERARDO\LectorXML\LectorXML\bin\Debug\LectorXML.exe
+F:\PROYECTO GERARDO\LectorXML\LectorXML\bin\Debug\LectorXML.pdb
+F:\PROYECTO GERARDO\LectorXML\LectorXML\obj\Debug\LectorXML.csprojResolveAssemblyReference.cache
+F:\PROYECTO GERARDO\LectorXML\LectorXML\obj\Debug\LectorXML.Properties.Resources.resources
+F:\PROYECTO GERARDO\LectorXML\LectorXML\obj\Debug\LectorXML.csproj.GenerateResource.Cache
+F:\PROYECTO GERARDO\LectorXML\LectorXML\obj\Debug\LectorXML.csproj.CoreCompileInputs.cache
+F:\PROYECTO GERARDO\LectorXML\LectorXML\obj\Debug\LectorXML.exe
+F:\PROYECTO GERARDO\LectorXML\LectorXML\obj\Debug\LectorXML.pdb
+G:\PROYECTO GERARDO\LectorXML\LectorXML\obj\Debug\LectorXML.w.resources
+D:\Users\nehuen\Desktop\PROYECTO GERARDO\LectorXML\LectorXML\bin\Debug\LectorXML.exe.config
+D:\Users\nehuen\Desktop\PROYECTO GERARDO\LectorXML\LectorXML\bin\Debug\LectorXML.exe
+D:\Users\nehuen\Desktop\PROYECTO GERARDO\LectorXML\LectorXML\bin\Debug\LectorXML.pdb
+D:\Users\nehuen\Desktop\PROYECTO GERARDO\LectorXML\LectorXML\bin\Debug\itextsharp.dll
+D:\Users\nehuen\Desktop\PROYECTO GERARDO\LectorXML\LectorXML\obj\Debug\LectorXML.csprojAssemblyReference.cache
+D:\Users\nehuen\Desktop\PROYECTO GERARDO\LectorXML\LectorXML\obj\Debug\LectorXML.w.resources
+D:\Users\nehuen\Desktop\PROYECTO GERARDO\LectorXML\LectorXML\obj\Debug\LectorXML.Properties.Resources.resources
+D:\Users\nehuen\Desktop\PROYECTO GERARDO\LectorXML\LectorXML\obj\Debug\LectorXML.csproj.GenerateResource.cache
+D:\Users\nehuen\Desktop\PROYECTO GERARDO\LectorXML\LectorXML\obj\Debug\LectorXML.csproj.CoreCompileInputs.cache
+D:\Users\nehuen\Desktop\PROYECTO GERARDO\LectorXML\LectorXML\obj\Debug\LectorXML.csproj.CopyComplete
+D:\Users\nehuen\Desktop\PROYECTO GERARDO\LectorXML\LectorXML\obj\Debug\LectorXML.exe
+D:\Users\nehuen\Desktop\PROYECTO GERARDO\LectorXML\LectorXML\obj\Debug\LectorXML.pdb
+F:\PROYECTO GERARDO\LectorXML\LectorXML\obj\Debug\LectorXML.w.resources
+F:\PROYECTO GERARDO\LectorXML\LectorXML\obj\Debug\LectorXML.Inicio.resources
+G:\PROYECTO GERARDO\LectorXML\LectorXML\obj\Debug\LectorXML.Inicio.resources
+G:\PROYECTO GERARDO\LectorXML\LectorXML\bin\Debug\itextsharp.dll
+F:\PROYECTO GERARDO\LectorXML\LectorXML\bin\Debug\itextsharp.dll
+E:\PROYECTO GERARDO\LectorXML\LectorXML\bin\Debug\LectorXML.exe.config
+E:\PROYECTO GERARDO\LectorXML\LectorXML\bin\Debug\LectorXML.exe
+E:\PROYECTO GERARDO\LectorXML\LectorXML\bin\Debug\LectorXML.pdb
+E:\PROYECTO GERARDO\LectorXML\LectorXML\bin\Debug\itextsharp.dll
+E:\PROYECTO GERARDO\LectorXML\LectorXML\obj\Debug\LectorXML.csprojAssemblyReference.cache
+E:\PROYECTO GERARDO\LectorXML\LectorXML\obj\Debug\LectorXML.w.resources
+E:\PROYECTO GERARDO\LectorXML\LectorXML\obj\Debug\LectorXML.Properties.Resources.resources
+E:\PROYECTO GERARDO\LectorXML\LectorXML\obj\Debug\LectorXML.csproj.GenerateResource.cache
+E:\PROYECTO GERARDO\LectorXML\LectorXML\obj\Debug\LectorXML.csproj.CoreCompileInputs.cache
+E:\PROYECTO GERARDO\LectorXML\LectorXML\obj\Debug\LectorXML.csproj.CopyComplete
+E:\PROYECTO GERARDO\LectorXML\LectorXML\obj\Debug\LectorXML.exe
+E:\PROYECTO GERARDO\LectorXML\LectorXML\obj\Debug\LectorXML.pdb
+E:\PROYECTO GERARDO\LectorXML - copia\LectorXML\bin\Debug\LectorXML.exe.config
+E:\PROYECTO GERARDO\LectorXML - copia\LectorXML\bin\Debug\LectorXML.exe
+E:\PROYECTO GERARDO\LectorXML - copia\LectorXML\bin\Debug\LectorXML.pdb
+E:\PROYECTO GERARDO\LectorXML - copia\LectorXML\bin\Debug\itextsharp.dll
+E:\PROYECTO GERARDO\LectorXML - copia\LectorXML\obj\Debug\LectorXML.csprojAssemblyReference.cache
+E:\PROYECTO GERARDO\LectorXML - copia\LectorXML\obj\Debug\LectorXML.w.resources
+E:\PROYECTO GERARDO\LectorXML - copia\LectorXML\obj\Debug\LectorXML.Properties.Resources.resources
+E:\PROYECTO GERARDO\LectorXML - copia\LectorXML\obj\Debug\LectorXML.csproj.GenerateResource.cache
+E:\PROYECTO GERARDO\LectorXML - copia\LectorXML\obj\Debug\LectorXML.csproj.CoreCompileInputs.cache
+E:\PROYECTO GERARDO\LectorXML - copia\LectorXML\obj\Debug\LectorXML.csproj.CopyComplete
+E:\PROYECTO GERARDO\LectorXML - copia\LectorXML\obj\Debug\LectorXML.exe
+E:\PROYECTO GERARDO\LectorXML - copia\LectorXML\obj\Debug\LectorXML.pdb
+C:\Users\Nehue\Desktop\lector de encuestas version arreglada dia 4-8-2018\LectorXML\bin\Debug\LectorXML.exe.config
+C:\Users\Nehue\Desktop\lector de encuestas version arreglada dia 4-8-2018\LectorXML\bin\Debug\LectorXML.exe
+C:\Users\Nehue\Desktop\lector de encuestas version arreglada dia 4-8-2018\LectorXML\bin\Debug\LectorXML.pdb
+C:\Users\Nehue\Desktop\lector de encuestas version arreglada dia 4-8-2018\LectorXML\obj\Debug\LectorXML.csprojAssemblyReference.cache
+C:\Users\Nehue\Desktop\lector de encuestas version arreglada dia 4-8-2018\LectorXML\obj\Debug\LectorXML.w.resources
+C:\Users\Nehue\Desktop\lector de encuestas version arreglada dia 4-8-2018\LectorXML\obj\Debug\LectorXML.Properties.Resources.resources
+C:\Users\Nehue\Desktop\lector de encuestas version arreglada dia 4-8-2018\LectorXML\obj\Debug\LectorXML.csproj.GenerateResource.cache
+C:\Users\Nehue\Desktop\lector de encuestas version arreglada dia 4-8-2018\LectorXML\obj\Debug\LectorXML.csproj.CoreCompileInputs.cache
+C:\Users\Nehue\Desktop\lector de encuestas version arreglada dia 4-8-2018\LectorXML\obj\Debug\LectorXML.csproj.CopyComplete
+C:\Users\Nehue\Desktop\lector de encuestas version arreglada dia 4-8-2018\LectorXML\obj\Debug\LectorXML.exe
+C:\Users\Nehue\Desktop\lector de encuestas version arreglada dia 4-8-2018\LectorXML\obj\Debug\LectorXML.pdb
+E:\PROYECTO GERARDO\L.D.E proyecto 06-08-2018\LectorXML\bin\Debug\LectorXML.exe.config
+E:\PROYECTO GERARDO\L.D.E proyecto 06-08-2018\LectorXML\bin\Debug\LectorXML.exe
+E:\PROYECTO GERARDO\L.D.E proyecto 06-08-2018\LectorXML\bin\Debug\LectorXML.pdb
+E:\PROYECTO GERARDO\L.D.E proyecto 06-08-2018\LectorXML\obj\Debug\LectorXML.csprojAssemblyReference.cache
+E:\PROYECTO GERARDO\L.D.E proyecto 06-08-2018\LectorXML\obj\Debug\LectorXML.w.resources
+E:\PROYECTO GERARDO\L.D.E proyecto 06-08-2018\LectorXML\obj\Debug\LectorXML.Properties.Resources.resources
+E:\PROYECTO GERARDO\L.D.E proyecto 06-08-2018\LectorXML\obj\Debug\LectorXML.csproj.GenerateResource.cache
+E:\PROYECTO GERARDO\L.D.E proyecto 06-08-2018\LectorXML\obj\Debug\LectorXML.csproj.CoreCompileInputs.cache
+E:\PROYECTO GERARDO\L.D.E proyecto 06-08-2018\LectorXML\obj\Debug\LectorXML.csproj.CopyComplete
+E:\PROYECTO GERARDO\L.D.E proyecto 06-08-2018\LectorXML\obj\Debug\LectorXML.exe
+E:\PROYECTO GERARDO\L.D.E proyecto 06-08-2018\LectorXML\obj\Debug\LectorXML.pdb
